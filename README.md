@@ -15,8 +15,8 @@ Project consists of a spawner script that allows users to customize the spawner 
 
 <h2>Libraries</h2>
 
-- Unity Engine
-- Unity Editor
+- UnityEngine
+- UnityEditor
 - System.Collections
 - System.Collections.Generic
 
